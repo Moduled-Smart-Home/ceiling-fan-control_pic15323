@@ -1,0 +1,5 @@
+/firmware/CeilingFanControl.X/dist/
+/firmware/CeilingFanControl.X/build/
+
+/hardware/CeilingFanControl/CeilingFanControl-backups/
+/firmware/CeilingFanControl.X/mcc_generated_files/interrupt_manager.c

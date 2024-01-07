@@ -1,0 +1,6 @@
+Reduzir comprimento da placa
+Ajustar footprint do transistor, está menor que o componente
+Barra de pinos macho ficou muito afastada da borda
+Avaliar retirada do resistor pull up - testar melhor, com e sem e quais valores
+Ajustar footprint do MOC, está menos que o componente
+Talvez seja melhor o MOC ser PTH mesmo, por conta da altura do componente tb
