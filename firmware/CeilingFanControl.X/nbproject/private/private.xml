@@ -5,12 +5,14 @@
         <group>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/pin_manager.c</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/interrupt_manager.h</file>
+            <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/mcc.h</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/i2c1_slave.h</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/interrupt_manager.c</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/device_config.h</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/i2c1_slave.c</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/device_config.c</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/main.c</file>
+            <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/pin_manager.h</file>
             <file>file:/home/conrado/ModuledSmartHome/ceiling-fan-control_pic15323/firmware/CeilingFanControl.X/mcc_generated_files/mcc.c</file>
         </group>
     </open-files>
